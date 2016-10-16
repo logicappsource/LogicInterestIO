@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Interests
 //
-//  Created by Duc Tran on 6/13/15.
-//  Copyright © 2015 Developer Inspirus. All rights reserved.
+//  Created by Patrick 6/13/15.
+//  Copyright © 2016 LogicAppSource All rights reserved.
 //
 
 import UIKit
